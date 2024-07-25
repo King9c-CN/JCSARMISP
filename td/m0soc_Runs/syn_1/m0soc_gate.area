@@ -1,0 +1,106 @@
+standard
+***Report Model: CortexM0_SoC Device: EG4S20BG256***
+
+IO Statistics
+#IO                        47
+  #input                   12
+  #output                  33
+  #inout                    2
+
+LUT Statistics
+#Total_luts             11276
+  #lut4                  6162
+  #lut5                  1446
+  #lut6                     4
+  #lut5_mx41                0
+  #lut4_alu1b            3664
+
+Utilization Statistics
+#lut                    11280   out of  19600   57.55%
+#reg                     3785   out of  19600   19.31%
+#le                         0
+#dsp                        3   out of     29   10.34%
+#bram                      17   out of     64   26.56%
+  #bram9k                  17
+  #fifo9k                   0
+#bram32k                    8   out of     16   50.00%
+#pad                       47   out of    188   25.00%
+  #ireg                     6
+  #oreg                     7
+  #treg                     1
+#pll                        1   out of      4   25.00%
+
+Report Hierarchy Area:
++--------------------------------------------------------------------------------------------------------------------------+
+|Instance                    |Module                                          |lut     |ripple  |seq     |bram    |dsp     |
++--------------------------------------------------------------------------------------------------------------------------+
+|top                         |CortexM0_SoC                                    |7616    |3664    |3799    |25      |3       |
+|  ISP                       |AHBISP                                          |1376    |2693    |1346    |8       |0       |
+|    u_5X5Window             |slidingWindow_5X5                               |73      |409     |349     |8       |0       |
+|      u_fifo_1              |fifo_buf                                        |6       |60      |44      |2       |0       |
+|        ram_inst            |ram_infer_fifo_buf                              |0       |0       |8       |2       |0       |
+|      u_fifo_2              |fifo_buf                                        |6       |60      |42      |2       |0       |
+|        ram_inst            |ram_infer_fifo_buf                              |0       |0       |8       |2       |0       |
+|      u_fifo_3              |fifo_buf                                        |6       |60      |42      |2       |0       |
+|        ram_inst            |ram_infer_fifo_buf                              |0       |0       |8       |2       |0       |
+|      u_fifo_4              |fifo_buf                                        |6       |60      |42      |2       |0       |
+|        ram_inst            |ram_infer_fifo_buf                              |0       |0       |8       |2       |0       |
+|    u_CC                    |CC                                              |102     |75      |77      |0       |0       |
+|    u_bypass                |bypass                                          |55      |98      |35      |0       |0       |
+|    u_cal_gain              |cal_gain                                        |894     |1752    |423     |0       |0       |
+|      u_calculator          |calculator                                      |801     |1728    |346     |0       |0       |
+|        u_b_successive      |successive                                      |240     |533     |79      |0       |0       |
+|        u_g_successive      |successive                                      |239     |535     |72      |0       |0       |
+|        u_r_successive      |successive                                      |281     |533     |71      |0       |0       |
+|    u_demosaic              |demosaic                                        |71      |349     |282     |0       |0       |
+|      u1_conv_mask5         |conv_mask5                                      |6       |86      |74      |0       |0       |
+|      u2_conv_mask5         |conv_mask5                                      |6       |59      |55      |0       |0       |
+|      u_conv_mask4          |conv_mask4                                      |7       |65      |48      |0       |0       |
+|      u_conv_mask6          |conv_mask6                                      |6       |70      |70      |0       |0       |
+|    u_gamma                 |gamma                                           |16      |0       |17      |0       |0       |
+|      u_blue_gamma_rom      |gamma_rom                                       |4       |0       |5       |0       |0       |
+|      u_green_gamma_rom     |gamma_rom                                       |8       |0       |6       |0       |0       |
+|      u_red_gamma_rom       |gamma_rom                                       |4       |0       |5       |0       |0       |
+|  Interconncet              |AHBlite_Interconnect                            |0       |26      |4       |0       |0       |
+|    SlaveMUX                |AHBlite_SlaveMUX                                |0       |26      |4       |0       |0       |
+|  RAMCODE_Interface         |AHBlite_Block_RAM                               |7       |0       |17      |0       |0       |
+|  RAMDATA_Interface         |AHBlite_Block_RAM                               |19      |0       |17      |0       |0       |
+|  RAM_CODE                  |Block_RAM                                       |4       |0       |0       |4       |0       |
+|  RAM_DATA                  |Block_RAM                                       |4       |0       |0       |4       |0       |
+|  U_APB_GPIO                |APB_GPIO                                        |3       |0       |2       |0       |0       |
+|  U_APB_SDCARD_CONTROL      |APB_SDCARD_CONTROL                              |9       |0       |37      |0       |0       |
+|  U_APB_UART                |APB_UART                                        |15      |0       |7       |0       |0       |
+|  U_APB_VGA_CONTROL         |APB_VGA_CONTROL                                 |4       |0       |3       |0       |0       |
+|  U_sdram                   |SDRAM                                           |0       |0       |0       |0       |0       |
+|  ahb_to_apb                |cmsdk_ahb_to_apb                                |10      |0       |11      |0       |0       |
+|  clk_gen_inst              |clk_gen                                         |0       |0       |0       |0       |0       |
+|  cmsdk_apb_slave_mux       |cmsdk_apb_slave_mux                             |10      |0       |0       |0       |0       |
+|  fifo                      |sd2isp_fifo                                     |41      |55      |111     |1       |0       |
+|    ram_inst                |ram_infer_sd2isp_fifo                           |0       |0       |8       |1       |0       |
+|    rd_to_wr_cross_inst     |fifo_cross_domain_addr_process_al_sd2isp_fifo   |18      |0       |40      |0       |0       |
+|    wr_to_rd_cross_inst     |fifo_cross_domain_addr_process_al_sd2isp_fifo   |18      |0       |40      |0       |0       |
+|  kb                        |Keyboard                                        |72      |52      |48      |0       |0       |
+|  sd_reader                 |sd_reader                                       |524     |240     |319     |0       |0       |
+|    u_sdcmd_ctrl            |sdcmd_ctrl                                      |202     |81      |148     |0       |0       |
+|  sdram_top_inst            |sdram_top                                       |410     |251     |407     |8       |0       |
+|    fifo_ctrl_inst          |fifo_ctrl                                       |150     |154     |289     |8       |0       |
+|      rd_fifo_data          |fifo_data_out                                   |44      |45      |124     |4       |0       |
+|        ram_inst            |ram_infer_fifo_data_out                         |0       |0       |16      |4       |0       |
+|        rd_to_wr_cross_inst |fifo_cross_domain_addr_process_al_fifo_data_out |19      |0       |42      |0       |0       |
+|        wr_to_rd_cross_inst |fifo_cross_domain_addr_process_al_fifo_data_out |18      |0       |40      |0       |0       |
+|      wr_fifo_data          |fifo_data                                       |42      |55      |137     |4       |0       |
+|        ram_inst            |ram_infer_fifo_data                             |0       |0       |32      |4       |0       |
+|        rd_to_wr_cross_inst |fifo_cross_domain_addr_process_al_fifo_data     |18      |0       |40      |0       |0       |
+|        wr_to_rd_cross_inst |fifo_cross_domain_addr_process_al_fifo_data     |18      |0       |40      |0       |0       |
+|    sdram_ctrl_inst         |sdram_ctrl                                      |260     |97      |118     |0       |0       |
+|      sdram_a_ref_inst      |sdram_a_ref                                     |32      |23      |22      |0       |0       |
+|      sdram_arbit_inst      |sdram_arbit                                     |84      |0       |8       |0       |0       |
+|      sdram_init_inst       |sdram_init                                      |34      |16      |29      |0       |0       |
+|      sdram_read_inst       |sdram_read                                      |69      |35      |30      |0       |0       |
+|      sdram_write_inst      |sdram_write                                     |41      |23      |29      |0       |0       |
+|  u_logic                   |cortexm0ds_logic                                |4973    |173     |1327    |0       |3       |
+|  u_rs232                   |rs232                                           |66      |28      |67      |0       |0       |
+|    uart_rx_inst            |uart_rx                                         |29      |14      |40      |0       |0       |
+|    uart_tx_inst            |uart_tx                                         |37      |14      |27      |0       |0       |
+|  vga_ctrl_inst             |vga_ctrl                                        |23      |134     |26      |0       |0       |
++--------------------------------------------------------------------------------------------------------------------------+

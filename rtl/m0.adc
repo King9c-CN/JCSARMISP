@@ -1,0 +1,59 @@
+####
+set_pin_assignment {clk     } {location = K14 ;} 
+set_pin_assignment {RSTn  } {location = G11  ;}
+#### VGA Interport
+set_pin_assignment {clk_148m_vga } {location = H2  ;}
+set_pin_assignment {vga_hs  } {location = J3 ;}
+set_pin_assignment {vga_vs  } {location = J4  ;}
+
+set_pin_assignment {rgb_r[0]  } {location = L5 ;}
+set_pin_assignment {rgb_r[1]  } {location = L3 ;}
+set_pin_assignment {rgb_r[2]  } {location = M2  ;}
+set_pin_assignment {rgb_r[3]  } {location = M1  ;}
+set_pin_assignment {rgb_r[4]  } {location = L4  ;}
+set_pin_assignment {rgb_r[5]  } {location = K5 ;}
+set_pin_assignment {rgb_r[6]  } {location = K3  ;}
+set_pin_assignment {rgb_r[7]  } {location = K6  ;}
+
+set_pin_assignment {rgb_g[0]  } {location = L1 ;}
+set_pin_assignment {rgb_g[1]  } {location = K2 ;}
+set_pin_assignment {rgb_g[2]  } {location = K1  ;}
+set_pin_assignment {rgb_g[3]  } {location = J1  ;}
+set_pin_assignment {rgb_g[4]  } {location = H3  ;}
+set_pin_assignment {rgb_g[5]  } {location = J6 ;}
+set_pin_assignment {rgb_g[6]  } {location = H1  ;}
+set_pin_assignment {rgb_g[7]  } {location = H5  ;}
+
+set_pin_assignment {rgb_b[0]  } {location = G1 ;}
+set_pin_assignment {rgb_b[1]  } {location = F1 ;}
+set_pin_assignment {rgb_b[2]  } {location = F2  ;}
+set_pin_assignment {rgb_b[3]  } {location = E1  ;}
+set_pin_assignment {rgb_b[4]  } {location = G3  ;}
+set_pin_assignment {rgb_b[5]  } {location = E2 ;}
+set_pin_assignment {rgb_b[6]  } {location = D1  ;}
+set_pin_assignment {rgb_b[7]  } {location = C1  ;}
+
+
+
+set_pin_assignment { sdclk  } { LOCATION = M9; IOSTANDARD = LVCMOS33; }
+set_pin_assignment { sdcmd } { LOCATION = P2; IOSTANDARD = LVCMOS33; }
+set_pin_assignment { sddat0  } { LOCATION = P1; IOSTANDARD = LVCMOS33; }
+set_pin_assignment { sddat1  } { LOCATION = N1; IOSTANDARD = LVCMOS33; }
+set_pin_assignment { sddat2  } { LOCATION = R2; IOSTANDARD = LVCMOS33; }
+set_pin_assignment { sddat3  } { LOCATION = R1; IOSTANDARD = LVCMOS33; }
+
+
+set_pin_assignment {LED[0] } {location = M3  ;}
+set_pin_assignment {LED[1] } {location = M4  ;}
+set_pin_assignment {LED[2] } {location = N3  ;}
+set_pin_assignment {LED[3] } {location = N4  ;}
+
+
+set_pin_assignment	{ col[0] }	{ LOCATION = H14; IOSTANDARD = LVTTL33; }
+set_pin_assignment	{ col[1] }	{ LOCATION = L12; IOSTANDARD = LVTTL33; }
+set_pin_assignment	{ col[2] }	{ LOCATION = J13; IOSTANDARD = LVTTL33; }
+set_pin_assignment	{ col[3] }	{ LOCATION = G12; IOSTANDARD = LVTTL33; }
+
+
+set_pin_assignment	{ RX }	{ LOCATION = F16; IOSTANDARD = LVTTL33; }
+set_pin_assignment	{ TX }	{ LOCATION = E16; IOSTANDARD = LVTTL33; }

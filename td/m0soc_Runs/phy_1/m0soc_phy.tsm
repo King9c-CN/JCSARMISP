@@ -1,0 +1,1477 @@
+eagle_s20
+13 5017 1575 1947 12835 2000088995 24 0
+-4.006 0.088 CortexM0_SoC eagle_s20 EG4S20BG256 Detail NA 24 10
+clock: clk
+13 2000000000 10198 4
+Setup check
+23 3
+Endpoint: u_logic/Ca7bx6_reg_syn_4
+23 9.108000 15462204 3
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/Ca7bx6_reg_syn_4
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/Ca7bx6_reg_syn_4
+25 9.108000 45.069000 35.961000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[1]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[1]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[1]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[0]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Slohu6_syn_71.a[1]
+u_logic/Slohu6_syn_6 u_logic/Bfjpw6_reg_syn_3110.a[0]
+u_logic/Jdohu6_syn_4 u_logic/Jdohu6_syn_20.d[1]
+u_logic/Jdohu6_syn_6 u_logic/Zr8bx6_reg_syn_5.d[1]
+u_logic/Vrmiu6 u_logic/Ca7bx6_reg_syn_4.mi[0]
+
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/Ca7bx6_reg_syn_4
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/Ca7bx6_reg_syn_4
+129 9.108000 45.069000 35.961000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[0]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[1]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[1]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[0]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Slohu6_syn_71.a[1]
+u_logic/Slohu6_syn_6 u_logic/Bfjpw6_reg_syn_3110.a[0]
+u_logic/Jdohu6_syn_4 u_logic/Jdohu6_syn_20.d[1]
+u_logic/Jdohu6_syn_6 u_logic/Zr8bx6_reg_syn_5.d[1]
+u_logic/Vrmiu6 u_logic/Ca7bx6_reg_syn_4.mi[0]
+
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/Ca7bx6_reg_syn_4
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/Ca7bx6_reg_syn_4
+233 9.108000 45.069000 35.961000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[1]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[0]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[1]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[0]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Slohu6_syn_71.a[1]
+u_logic/Slohu6_syn_6 u_logic/Bfjpw6_reg_syn_3110.a[0]
+u_logic/Jdohu6_syn_4 u_logic/Jdohu6_syn_20.d[1]
+u_logic/Jdohu6_syn_6 u_logic/Zr8bx6_reg_syn_5.d[1]
+u_logic/Vrmiu6 u_logic/Ca7bx6_reg_syn_4.mi[0]
+
+
+Endpoint: u_logic/C87bx6_reg_syn_5
+337 9.162000 15462204 3
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/C87bx6_reg_syn_5
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/C87bx6_reg_syn_5
+339 9.162000 45.069000 35.907000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[1]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[1]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[1]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[0]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Slohu6_syn_71.a[1]
+u_logic/Slohu6_syn_6 u_logic/Bfjpw6_reg_syn_3110.a[0]
+u_logic/Jdohu6_syn_4 u_logic/Jdohu6_syn_20.d[1]
+u_logic/Jdohu6_syn_6 u_logic/Zr8bx6_reg_syn_5.d[1]
+u_logic/Vrmiu6 u_logic/C87bx6_reg_syn_5.mi[0]
+
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/C87bx6_reg_syn_5
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/C87bx6_reg_syn_5
+443 9.162000 45.069000 35.907000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[0]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[1]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[1]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[0]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Slohu6_syn_71.a[1]
+u_logic/Slohu6_syn_6 u_logic/Bfjpw6_reg_syn_3110.a[0]
+u_logic/Jdohu6_syn_4 u_logic/Jdohu6_syn_20.d[1]
+u_logic/Jdohu6_syn_6 u_logic/Zr8bx6_reg_syn_5.d[1]
+u_logic/Vrmiu6 u_logic/C87bx6_reg_syn_5.mi[0]
+
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/C87bx6_reg_syn_5
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/C87bx6_reg_syn_5
+547 9.162000 45.069000 35.907000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[1]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[0]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[1]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[0]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Slohu6_syn_71.a[1]
+u_logic/Slohu6_syn_6 u_logic/Bfjpw6_reg_syn_3110.a[0]
+u_logic/Jdohu6_syn_4 u_logic/Jdohu6_syn_20.d[1]
+u_logic/Jdohu6_syn_6 u_logic/Zr8bx6_reg_syn_5.d[1]
+u_logic/Vrmiu6 u_logic/C87bx6_reg_syn_5.mi[0]
+
+
+Endpoint: u_logic/Bfjpw6_reg_syn_2448
+651 9.468000 18346708 3
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/Bfjpw6_reg_syn_2448
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/Bfjpw6_reg_syn_2448
+653 9.468000 45.069000 35.601000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[1]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[1]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[0]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[1]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Vcohu6_syn_26.a[0]
+u_logic/Glphu6_syn_1496 u_logic/Xkohu6_syn_29.d[0]
+u_logic/Glphu6_syn_1518 u_logic/Wnohu6_syn_192.a[1]
+u_logic/Wnohu6_syn_80 u_logic/T40qw6_reg_syn_5.d[0]
+u_logic/Hsliu6 u_logic/Bfjpw6_reg_syn_2448.mi[0]
+
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/Bfjpw6_reg_syn_2448
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/Bfjpw6_reg_syn_2448
+757 9.468000 45.069000 35.601000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[0]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[1]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[0]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[1]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Vcohu6_syn_26.a[0]
+u_logic/Glphu6_syn_1496 u_logic/Xkohu6_syn_29.d[0]
+u_logic/Glphu6_syn_1518 u_logic/Wnohu6_syn_192.a[1]
+u_logic/Wnohu6_syn_80 u_logic/T40qw6_reg_syn_5.d[0]
+u_logic/Hsliu6 u_logic/Bfjpw6_reg_syn_2448.mi[0]
+
+Timing path: u_logic/Lfgbx6_reg_syn_8.clk->u_logic/Bfjpw6_reg_syn_2448
+u_logic/Lfgbx6_reg_syn_8.clk
+u_logic/Bfjpw6_reg_syn_2448
+861 9.468000 45.069000 35.601000 33 34
+u_logic/Lfgbx6 u_logic/T3abx6_reg_syn_8.a[0]
+u_logic/Glphu6_syn_1168 u_logic/Glphu6_syn_3543.a[1]
+u_logic/Glphu6_syn_1170 u_logic/Glphu6_syn_3302.d[1]
+u_logic/V1sow6 u_logic/Glphu6_syn_4240.b[1]
+u_logic/Glphu6_syn_1181 u_logic/Glphu6_syn_4132.a[1]
+u_logic/Glphu6_syn_1183 u_logic/Glphu6_syn_4132.a[0]
+u_logic/M6fow6 u_logic/Glphu6_syn_3198.a[0]
+u_logic/Glphu6_syn_1186 u_logic/Glphu6_syn_3608.a[0]
+u_logic/Glphu6_syn_1214 u_logic/Glphu6_syn_3525.a[0]
+u_logic/Glphu6_syn_1216 u_logic/Slyax6_reg_syn_8.d[1]
+u_logic/Glphu6_syn_1220 u_logic/Glphu6_syn_3346.b[0]
+u_logic/Glphu6_syn_1225 u_logic/Glphu6_syn_4138.a[0]
+u_logic/Glphu6_syn_1227 u_logic/Glphu6_syn_3346.d[1]
+u_logic/Glphu6_syn_1347 u_logic/Glphu6_syn_3356.b[1]
+u_logic/Glphu6_syn_1351 u_logic/Qkohu6_syn_388.a[0]
+u_logic/Glphu6_syn_1353 u_logic/Glphu6_syn_4194.d[1]
+u_logic/Glphu6_syn_1355 u_logic/Glphu6_syn_4176.a[0]
+u_logic/Glphu6_syn_1360 u_logic/Glphu6_syn_4160.a[0]
+u_logic/Glphu6_syn_1362 u_logic/Glphu6_syn_4176.d[1]
+u_logic/Glphu6_syn_1368 u_logic/Glphu6_syn_4114.b[1]
+u_logic/Glphu6_syn_1372 u_logic/Glphu6_syn_4114.a[0]
+u_logic/Glphu6_syn_1374 u_logic/Glphu6_syn_4169.a[1]
+u_logic/Glphu6_syn_1376 u_logic/Glphu6_syn_3596.a[0]
+u_logic/Glphu6_syn_1378 u_logic/Glphu6_syn_3594.a[0]
+u_logic/Glphu6_syn_1384 u_logic/Glphu6_syn_3581.a[0]
+u_logic/Glphu6_syn_1413 u_logic/Glphu6_syn_3531.a[1]
+u_logic/Glphu6_syn_1455 u_logic/Glphu6_syn_3971.d[1]
+u_logic/Glphu6_syn_1474 u_logic/Glphu6_syn_3336.a[1]
+u_logic/Glphu6_syn_1476 u_logic/Qijpw6_reg_syn_425.a[0]
+u_logic/Glphu6_syn_1492 u_logic/Vcohu6_syn_26.a[0]
+u_logic/Glphu6_syn_1496 u_logic/Xkohu6_syn_29.d[0]
+u_logic/Glphu6_syn_1518 u_logic/Wnohu6_syn_192.a[1]
+u_logic/Wnohu6_syn_80 u_logic/T40qw6_reg_syn_5.d[0]
+u_logic/Hsliu6 u_logic/Bfjpw6_reg_syn_2448.mi[0]
+
+
+
+Hold check
+965 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+967 0.124000 9 3
+Timing path: reg0_syn_181.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+reg0_syn_181.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+969 0.124000 3.179000 3.303000 1 1
+isp_rd_data_reg[0] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.dia[0]
+
+Timing path: reg0_syn_181.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+reg0_syn_181.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+1007 0.130000 3.179000 3.309000 1 1
+isp_rd_data_reg[1] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.dia[1]
+
+Timing path: reg0_syn_178.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+reg0_syn_178.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+1045 0.200000 3.179000 3.379000 1 1
+isp_rd_data_reg[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.dia[8]
+
+
+Endpoint: ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+1083 0.186000 4 3
+Timing path: ISP/u_5X5Window/u_fifo_2/ram_inst/reg2_syn_40.clk->ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+ISP/u_5X5Window/u_fifo_2/ram_inst/reg2_syn_40.clk
+ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+1085 0.186000 3.179000 3.365000 1 1
+ISP/u_5X5Window/u_fifo_2/ram_inst/dob_tmp2[6] ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14.dia[2]
+
+Timing path: ISP/u_5X5Window/u_fifo_2/ram_inst/reg2_syn_40.clk->ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+ISP/u_5X5Window/u_fifo_2/ram_inst/reg2_syn_40.clk
+ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+1123 0.186000 3.179000 3.365000 1 1
+ISP/u_5X5Window/u_fifo_2/ram_inst/dob_tmp2[4] ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14.dia[0]
+
+Timing path: ISP/u_5X5Window/u_fifo_2/ram_inst/reg2_syn_46.clk->ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+ISP/u_5X5Window/u_fifo_2/ram_inst/reg2_syn_46.clk
+ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14
+1161 0.195000 3.179000 3.374000 1 1
+ISP/u_5X5Window/u_fifo_2/ram_inst/dob_tmp2[5] ISP/u_5X5Window/u_fifo_3/ram_inst/ramread0_syn_14.dia[1]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+1199 0.197000 10 3
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg1_syn_59.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg1_syn_59.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+1201 0.197000 3.242000 3.439000 1 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_addr[5] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.addra[8]
+
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg1_syn_56.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg1_syn_56.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+1239 0.206000 3.242000 3.448000 1 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_addr[4] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.addra[7]
+
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg1_syn_64.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg1_syn_64.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+1277 0.346000 3.242000 3.588000 1 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_addr[9] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.addra[12]
+
+
+
+Recovery check
+1315 3
+Endpoint: ISP/u_5X5Window/reg27_syn_82
+1317 37.116000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->ISP/u_5X5Window/reg27_syn_82
+u_logic/Qijpw6_reg_syn_340.clk
+ISP/u_5X5Window/reg27_syn_82
+1319 37.116000 44.957000 7.841000 1 2
+sdcard_rd_reset ISP/u_cal_gain/u_calculator/u_b_successive/reg0_syn_129.d[1]
+fifo/rst_dup_118 ISP/u_5X5Window/reg27_syn_82.sr
+
+
+Endpoint: ISP/u_cal_gain/u_calculator/u_b_successive/rK_Sum_b[9]_syn_21
+1359 37.366000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->ISP/u_cal_gain/u_calculator/u_b_successive/rK_Sum_b[9]_syn_21
+u_logic/Qijpw6_reg_syn_340.clk
+ISP/u_cal_gain/u_calculator/u_b_successive/rK_Sum_b[9]_syn_21
+1361 37.366000 44.957000 7.591000 1 2
+sdcard_rd_reset ISP/u_cal_gain/u_calculator/u_b_successive/reg0_syn_129.d[0]
+fifo/rst_dup_129 ISP/u_cal_gain/u_calculator/u_b_successive/rK_Sum_b[9]_syn_21.sr
+
+
+Endpoint: ISP/u_CC/bayer_state_b[3]_syn_80
+1401 37.461000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->ISP/u_CC/bayer_state_b[3]_syn_80
+u_logic/Qijpw6_reg_syn_340.clk
+ISP/u_CC/bayer_state_b[3]_syn_80
+1403 37.461000 44.957000 7.496000 1 2
+sdcard_rd_reset ISP/u_cal_gain/u_calculator/u_b_successive/reg0_syn_129.d[1]
+fifo/rst_dup_118 ISP/u_CC/bayer_state_b[3]_syn_80.sr
+
+
+
+Removal check
+1443 3
+Endpoint: u_rs232/uart_rx_inst/rx_reg2_reg_syn_8
+1445 0.123000 1 1
+Timing path: u_logic/Glphu6_syn_3204.clk->u_rs232/uart_rx_inst/rx_reg2_reg_syn_8
+u_logic/Glphu6_syn_3204.clk
+u_rs232/uart_rx_inst/rx_reg2_reg_syn_8
+1447 0.123000 3.232000 3.355000 0 1
+cpuresetn_dup_17 u_rs232/uart_rx_inst/rx_reg2_reg_syn_8.sr
+
+
+Endpoint: u_logic/Bfjpw6_reg_syn_2418
+1485 0.146000 1 1
+Timing path: u_logic/Bfjpw6_reg_syn_2430.clk->u_logic/Bfjpw6_reg_syn_2418
+u_logic/Bfjpw6_reg_syn_2430.clk
+u_logic/Bfjpw6_reg_syn_2418
+1487 0.146000 3.232000 3.378000 0 1
+cpuresetn_dup_26 u_logic/Bfjpw6_reg_syn_2418.sr
+
+
+Endpoint: u_logic/L0vhu6_syn_24
+1525 0.162000 1 1
+Timing path: u_logic/Bfjpw6_reg_syn_2430.clk->u_logic/L0vhu6_syn_24
+u_logic/Bfjpw6_reg_syn_2430.clk
+u_logic/L0vhu6_syn_24
+1527 0.162000 3.216000 3.378000 0 1
+cpuresetn_dup_26 u_logic/L0vhu6_syn_24.sr
+
+
+
+
+clock: clk_gen_inst/pll_inst.clkc[1]
+1565 44056 1526 4
+Setup check
+1575 3
+Endpoint: sd_reader/reg0_syn_212
+1575 -4.006000 3 3
+Timing path: sd_reader/reg2_syn_27.clk->sd_reader/reg0_syn_212
+sd_reader/reg2_syn_27.clk
+sd_reader/reg0_syn_212
+1577 -4.006000 3.593000 7.599000 4 4
+sd_reader/rstart sd_reader/arg_b1[30]_syn_39.d[1]
+sd_reader/arg_b1[30]_syn_5 sd_reader/arg_b1[20]_syn_18.a[1]
+sd_reader/arg_b1[20]_syn_2 sd_reader/reg8_syn_96.a[0]
+sd_reader/arg_b1[20]_syn_7 sd_reader/reg0_syn_212.a[0]
+
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_154.clk->sd_reader/reg0_syn_212
+U_APB_SDCARD_CONTROL/reg1_syn_154.clk
+sd_reader/reg0_syn_212
+1619 -3.173000 3.593000 6.766000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[20] sd_reader/arg_b1[20]_syn_18.d[1]
+sd_reader/arg_b1[20]_syn_2 sd_reader/reg8_syn_96.a[0]
+sd_reader/arg_b1[20]_syn_7 sd_reader/reg0_syn_212.a[0]
+
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_171.clk->sd_reader/reg0_syn_212
+U_APB_SDCARD_CONTROL/reg1_syn_171.clk
+sd_reader/reg0_syn_212
+1659 -2.991000 3.593000 6.584000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[11] sd_reader/arg_b1[20]_syn_18.c[1]
+sd_reader/arg_b1[20]_syn_2 sd_reader/reg8_syn_96.a[0]
+sd_reader/arg_b1[20]_syn_7 sd_reader/reg0_syn_212.a[0]
+
+
+Endpoint: sd_reader/reg0_syn_212
+1699 -3.859000 3 3
+Timing path: sd_reader/reg2_syn_27.clk->sd_reader/reg0_syn_212
+sd_reader/reg2_syn_27.clk
+sd_reader/reg0_syn_212
+1701 -3.859000 3.593000 7.452000 4 4
+sd_reader/rstart sd_reader/arg_b1[30]_syn_39.d[1]
+sd_reader/arg_b1[30]_syn_5 sd_reader/arg_b1[18]_syn_23.a[0]
+sd_reader/arg_b1[30]_syn_12 sd_reader/arg_b1[20]_syn_18.a[0]
+sd_reader/arg_b1[30]_syn_17 sd_reader/reg0_syn_212.a[1]
+
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_156.clk->sd_reader/reg0_syn_212
+U_APB_SDCARD_CONTROL/reg1_syn_156.clk
+sd_reader/reg0_syn_212
+1743 -3.163000 3.593000 6.756000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[30] sd_reader/arg_b1[18]_syn_23.d[0]
+sd_reader/arg_b1[30]_syn_12 sd_reader/arg_b1[20]_syn_18.a[0]
+sd_reader/arg_b1[30]_syn_17 sd_reader/reg0_syn_212.a[1]
+
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_162.clk->sd_reader/reg0_syn_212
+U_APB_SDCARD_CONTROL/reg1_syn_162.clk
+sd_reader/reg0_syn_212
+1783 -2.844000 3.593000 6.437000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[21] sd_reader/arg_b1[18]_syn_23.c[0]
+sd_reader/arg_b1[30]_syn_12 sd_reader/arg_b1[20]_syn_18.a[0]
+sd_reader/arg_b1[30]_syn_17 sd_reader/reg0_syn_212.a[1]
+
+
+Endpoint: sd_reader/reg0_syn_167
+1823 -3.852000 12 3
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_179.clk->sd_reader/reg0_syn_167
+U_APB_SDCARD_CONTROL/reg1_syn_179.clk
+sd_reader/reg0_syn_167
+1825 -3.852000 3.593000 7.445000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[24] sd_reader/reg11_syn_186.b[1]
+sd_reader/arg_b9[24] sd_reader/arg_b1[24]_syn_21.a[1]
+sd_reader/arg_b1[24]_syn_5 sd_reader/reg0_syn_167.b[1]
+
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_179.clk->sd_reader/reg0_syn_167
+U_APB_SDCARD_CONTROL/reg1_syn_179.clk
+sd_reader/reg0_syn_167
+1865 -3.852000 3.593000 7.445000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[24] sd_reader/reg11_syn_186.b[1]
+sd_reader/arg_b9[24] sd_reader/arg_b1[24]_syn_21.a[0]
+sd_reader/arg_b1[24]_syn_5 sd_reader/reg0_syn_167.b[1]
+
+Timing path: U_APB_SDCARD_CONTROL/reg1_syn_179.clk->sd_reader/reg0_syn_167
+U_APB_SDCARD_CONTROL/reg1_syn_179.clk
+sd_reader/reg0_syn_167
+1905 -3.852000 3.593000 7.445000 3 3
+U_APB_SDCARD_CONTROL/sdcard_rd_addr[24] sd_reader/reg11_syn_186.b[1]
+sd_reader/arg_b9[24] sd_reader/arg_b1[24]_syn_21.a[1]
+sd_reader/arg_b1[24]_syn_5 sd_reader/reg0_syn_167.b[0]
+
+
+
+Hold check
+1945 3
+Endpoint: fifo/ram_inst/ramread0_syn_11
+1947 0.088000 10 3
+Timing path: fifo/reg1_syn_62.clk->fifo/ram_inst/ramread0_syn_11
+fifo/reg1_syn_62.clk
+fifo/ram_inst/ramread0_syn_11
+1949 0.088000 2.183000 2.271000 1 1
+fifo/wr_addr[7] fifo/ram_inst/ramread0_syn_11.addra[10]
+
+Timing path: fifo/reg1_syn_56.clk->fifo/ram_inst/ramread0_syn_11
+fifo/reg1_syn_56.clk
+fifo/ram_inst/ramread0_syn_11
+1983 0.194000 2.183000 2.377000 1 1
+fifo/wr_addr[4] fifo/ram_inst/ramread0_syn_11.addra[7]
+
+Timing path: fifo/reg1_syn_56.clk->fifo/ram_inst/ramread0_syn_11
+fifo/reg1_syn_56.clk
+fifo/ram_inst/ramread0_syn_11
+2017 0.212000 2.183000 2.395000 1 1
+fifo/wr_addr[3] fifo/ram_inst/ramread0_syn_11.addra[6]
+
+
+Endpoint: fifo/ram_inst/ramread0_syn_11
+2051 0.196000 8 3
+Timing path: sd_reader/reg9_syn_99.clk->fifo/ram_inst/ramread0_syn_11
+sd_reader/reg9_syn_99.clk
+fifo/ram_inst/ramread0_syn_11
+2053 0.196000 2.183000 2.379000 1 1
+sd_reader/rd_data[13] fifo/ram_inst/ramread0_syn_11.dia[5]
+
+Timing path: sd_reader/reg9_syn_93.clk->fifo/ram_inst/ramread0_syn_11
+sd_reader/reg9_syn_93.clk
+fifo/ram_inst/ramread0_syn_11
+2087 0.205000 2.183000 2.388000 1 1
+sd_reader/rd_data[15] fifo/ram_inst/ramread0_syn_11.dia[7]
+
+Timing path: sd_reader/reg9_syn_96.clk->fifo/ram_inst/ramread0_syn_11
+sd_reader/reg9_syn_96.clk
+fifo/ram_inst/ramread0_syn_11
+2121 0.234000 2.183000 2.417000 1 1
+sd_reader/rd_data[11] fifo/ram_inst/ramread0_syn_11.dia[3]
+
+
+Endpoint: sd_reader/u_sdcmd_ctrl/reg9_syn_192
+2155 0.323000 1 1
+Timing path: sd_reader/u_sdcmd_ctrl/reg9_syn_201.clk->sd_reader/u_sdcmd_ctrl/reg9_syn_192
+sd_reader/u_sdcmd_ctrl/reg9_syn_201.clk
+sd_reader/u_sdcmd_ctrl/reg9_syn_192
+2157 0.323000 2.044000 2.367000 0 1
+sd_reader/u_sdcmd_ctrl/resp_arg[4] sd_reader/u_sdcmd_ctrl/reg9_syn_192.mi[0]
+
+
+
+Recovery check
+2191 3
+Endpoint: sddat3_syn_4
+2193 -3.695000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->sddat3_syn_4
+u_logic/Qijpw6_reg_syn_340.clk
+sddat3_syn_4
+2195 -3.695000 3.551000 7.246000 2 3
+sdcard_rd_reset u_logic/Glphu6_syn_3635.d[0]
+fifo/rst_dup_122 sdram_top_inst/fifo_ctrl_inst/sdram_wr_addr_b[10]_syn_87.d[1]
+sd_reader/rstn_dup_18 sddat3_syn_4.rst
+
+
+Endpoint: sddat0_syn_4
+2235 -3.695000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->sddat0_syn_4
+u_logic/Qijpw6_reg_syn_340.clk
+sddat0_syn_4
+2237 -3.695000 3.551000 7.246000 2 3
+sdcard_rd_reset u_logic/Glphu6_syn_3635.d[0]
+fifo/rst_dup_122 sdram_top_inst/fifo_ctrl_inst/sdram_wr_addr_b[10]_syn_87.d[1]
+sd_reader/rstn_dup_18 sddat0_syn_4.rst
+
+
+Endpoint: sdcmd_syn_2
+2277 -3.661000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->sdcmd_syn_2
+u_logic/Qijpw6_reg_syn_340.clk
+sdcmd_syn_2
+2279 -3.661000 3.424000 7.085000 2 3
+sdcard_rd_reset u_logic/Glphu6_syn_3635.d[0]
+fifo/rst_dup_122 sdram_top_inst/fifo_ctrl_inst/sdram_wr_addr_b[10]_syn_87.d[1]
+sd_reader/rstn_dup_18 sdcmd_syn_2.rst
+
+
+
+Removal check
+2319 3
+Endpoint: fifo/reg1_syn_64
+2321 0.350000 1 1
+Timing path: ISP/u_CC/step0_value3[0]_syn_5.clk->fifo/reg1_syn_64
+ISP/u_CC/step0_value3[0]_syn_5.clk
+fifo/reg1_syn_64
+2323 0.350000 2.236000 2.586000 0 1
+fifo/asy_w_rst1 fifo/reg1_syn_64.sr
+
+
+Endpoint: fifo/reg1_syn_62
+2357 0.350000 1 1
+Timing path: ISP/u_CC/step0_value3[0]_syn_5.clk->fifo/reg1_syn_62
+ISP/u_CC/step0_value3[0]_syn_5.clk
+fifo/reg1_syn_62
+2359 0.350000 2.236000 2.586000 0 1
+fifo/asy_w_rst1 fifo/reg1_syn_62.sr
+
+
+Endpoint: fifo/reg1_syn_56
+2393 0.350000 1 1
+Timing path: ISP/u_CC/step0_value3[0]_syn_5.clk->fifo/reg1_syn_56
+ISP/u_CC/step0_value3[0]_syn_5.clk
+fifo/reg1_syn_56
+2395 0.350000 2.236000 2.586000 0 1
+fifo/asy_w_rst1 fifo/reg1_syn_56.sr
+
+
+
+
+clock: clk_gen_inst/pll_inst.clkc[3]
+2429 19912 302 4
+Setup check
+2439 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+2439 -1.359000 1821 3
+Timing path: vga_ctrl_inst/cnt_v_b[5]_syn_42.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+vga_ctrl_inst/cnt_v_b[5]_syn_42.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+2441 -1.359000 8.752000 10.111000 7 13
+vga_ctrl_inst/cnt_h[1] vga_ctrl_inst/lt6_syn_65.b[0]
+vga_ctrl_inst/lt6_syn_9 vga_ctrl_inst/lt6_syn_68.fci
+vga_ctrl_inst/lt6_syn_13 vga_ctrl_inst/lt6_syn_71.fci
+vga_ctrl_inst/lt6_syn_17 vga_ctrl_inst/lt6_syn_74.fci
+vga_ctrl_inst/lt6_syn_21 vga_ctrl_inst/lt6_syn_77.fci
+vga_ctrl_inst/lt6_syn_25 vga_ctrl_inst/lt6_syn_80.fci
+vga_ctrl_inst/lt6_syn_29 vga_ctrl_inst/lt6_syn_82.fci
+vga_ctrl_inst/pix_data_req_n3 vga_ctrl_inst/reg1_syn_71.c[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24.addrb[10]
+
+Timing path: vga_ctrl_inst/reg1_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+vga_ctrl_inst/reg1_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+2499 -1.294000 8.752000 10.046000 7 9
+vga_ctrl_inst/cnt_v[9] vga_ctrl_inst/lt5_syn_77.a[0]
+vga_ctrl_inst/lt5_syn_25 vga_ctrl_inst/lt5_syn_80.fci
+vga_ctrl_inst/lt5_syn_29 vga_ctrl_inst/lt5_syn_82.fci
+vga_ctrl_inst/pix_data_req_n6 vga_ctrl_inst/reg1_syn_71.b[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24.addrb[10]
+
+Timing path: vga_ctrl_inst/reg1_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+vga_ctrl_inst/reg1_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+2549 -1.289000 8.752000 10.041000 7 9
+vga_ctrl_inst/cnt_v[9] vga_ctrl_inst/lt5_syn_77.a[0]
+vga_ctrl_inst/lt5_syn_25 vga_ctrl_inst/lt5_syn_80.fci
+vga_ctrl_inst/lt5_syn_29 vga_ctrl_inst/lt5_syn_82.fci
+vga_ctrl_inst/pix_data_req_n6 vga_ctrl_inst/reg1_syn_71.b[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[9] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24.addrb[11]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+2599 -1.306000 1821 3
+Timing path: vga_ctrl_inst/cnt_v_b[5]_syn_42.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+vga_ctrl_inst/cnt_v_b[5]_syn_42.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+2601 -1.306000 8.752000 10.058000 7 13
+vga_ctrl_inst/cnt_h[1] vga_ctrl_inst/lt6_syn_65.b[0]
+vga_ctrl_inst/lt6_syn_9 vga_ctrl_inst/lt6_syn_68.fci
+vga_ctrl_inst/lt6_syn_13 vga_ctrl_inst/lt6_syn_71.fci
+vga_ctrl_inst/lt6_syn_17 vga_ctrl_inst/lt6_syn_74.fci
+vga_ctrl_inst/lt6_syn_21 vga_ctrl_inst/lt6_syn_77.fci
+vga_ctrl_inst/lt6_syn_25 vga_ctrl_inst/lt6_syn_80.fci
+vga_ctrl_inst/lt6_syn_29 vga_ctrl_inst/lt6_syn_82.fci
+vga_ctrl_inst/pix_data_req_n3 vga_ctrl_inst/reg1_syn_71.c[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[10] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9.addrb[12]
+
+Timing path: vga_ctrl_inst/reg1_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+vga_ctrl_inst/reg1_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+2659 -1.241000 8.752000 9.993000 7 9
+vga_ctrl_inst/cnt_v[9] vga_ctrl_inst/lt5_syn_77.a[0]
+vga_ctrl_inst/lt5_syn_25 vga_ctrl_inst/lt5_syn_80.fci
+vga_ctrl_inst/lt5_syn_29 vga_ctrl_inst/lt5_syn_82.fci
+vga_ctrl_inst/pix_data_req_n6 vga_ctrl_inst/reg1_syn_71.b[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[10] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9.addrb[12]
+
+Timing path: vga_ctrl_inst/reg1_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+vga_ctrl_inst/reg1_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+2709 -1.232000 8.752000 9.984000 7 9
+vga_ctrl_inst/cnt_v[9] vga_ctrl_inst/lt4_syn_77.b[0]
+vga_ctrl_inst/lt4_syn_25 vga_ctrl_inst/lt4_syn_80.fci
+vga_ctrl_inst/lt4_syn_29 vga_ctrl_inst/lt4_syn_82.fci
+vga_ctrl_inst/pix_data_req_n5 vga_ctrl_inst/reg1_syn_71.a[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[10] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9.addrb[12]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+2759 -1.229000 1821 3
+Timing path: vga_ctrl_inst/cnt_v_b[5]_syn_42.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+vga_ctrl_inst/cnt_v_b[5]_syn_42.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+2761 -1.229000 8.752000 9.981000 7 13
+vga_ctrl_inst/cnt_h[1] vga_ctrl_inst/lt6_syn_65.b[0]
+vga_ctrl_inst/lt6_syn_9 vga_ctrl_inst/lt6_syn_68.fci
+vga_ctrl_inst/lt6_syn_13 vga_ctrl_inst/lt6_syn_71.fci
+vga_ctrl_inst/lt6_syn_17 vga_ctrl_inst/lt6_syn_74.fci
+vga_ctrl_inst/lt6_syn_21 vga_ctrl_inst/lt6_syn_77.fci
+vga_ctrl_inst/lt6_syn_25 vga_ctrl_inst/lt6_syn_80.fci
+vga_ctrl_inst/lt6_syn_29 vga_ctrl_inst/lt6_syn_82.fci
+vga_ctrl_inst/pix_data_req_n3 vga_ctrl_inst/reg1_syn_71.c[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[10] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14.addrb[12]
+
+Timing path: vga_ctrl_inst/reg1_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+vga_ctrl_inst/reg1_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+2819 -1.164000 8.752000 9.916000 7 9
+vga_ctrl_inst/cnt_v[9] vga_ctrl_inst/lt5_syn_77.a[0]
+vga_ctrl_inst/lt5_syn_25 vga_ctrl_inst/lt5_syn_80.fci
+vga_ctrl_inst/lt5_syn_29 vga_ctrl_inst/lt5_syn_82.fci
+vga_ctrl_inst/pix_data_req_n6 vga_ctrl_inst/reg1_syn_71.b[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[10] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14.addrb[12]
+
+Timing path: vga_ctrl_inst/reg1_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+vga_ctrl_inst/reg1_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+2869 -1.155000 8.752000 9.907000 7 9
+vga_ctrl_inst/cnt_v[9] vga_ctrl_inst/lt4_syn_77.b[0]
+vga_ctrl_inst/lt4_syn_25 vga_ctrl_inst/lt4_syn_80.fci
+vga_ctrl_inst/lt4_syn_29 vga_ctrl_inst/lt4_syn_82.fci
+vga_ctrl_inst/pix_data_req_n5 vga_ctrl_inst/reg1_syn_71.a[1]
+vga_ctrl_inst/pix_data_req_n sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.a[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.e[0]
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_59 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_63 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_70.fci
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/addrb[10] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14.addrb[12]
+
+
+
+Hold check
+2919 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg1_syn_42
+2921 0.339000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg3_syn_44.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg1_syn_42
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg3_syn_44.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg1_syn_42
+2923 0.339000 2.119000 2.458000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/sync_r1[4] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg1_syn_42.mi[1]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78
+2957 0.346000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1_reg_syn_8.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1_reg_syn_8.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78
+2959 0.346000 2.119000 2.465000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst0 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59
+2993 0.364000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59
+2995 0.364000 2.135000 2.499000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/sync_r1[7] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_59.mi[0]
+
+
+
+Recovery check
+3029 3
+Endpoint: vga_ctrl_inst/reg1_syn_77
+3031 -1.768000 1 1
+Timing path: vga_ctrl_inst/sys_rst_n_syn_5.clk->vga_ctrl_inst/reg1_syn_77
+vga_ctrl_inst/sys_rst_n_syn_5.clk
+vga_ctrl_inst/reg1_syn_77
+3033 -1.768000 3.530000 5.298000 1 2
+U_APB_VGA_CONTROL/vga_en vga_ctrl_inst/sys_rst_n_syn_5.d[1]
+vga_ctrl_inst/sys_rst_n vga_ctrl_inst/reg1_syn_77.sr
+
+
+Endpoint: vga_ctrl_inst/reg0_syn_78
+3071 -1.760000 1 1
+Timing path: vga_ctrl_inst/sys_rst_n_syn_5.clk->vga_ctrl_inst/reg0_syn_78
+vga_ctrl_inst/sys_rst_n_syn_5.clk
+vga_ctrl_inst/reg0_syn_78
+3073 -1.760000 3.530000 5.290000 1 2
+U_APB_VGA_CONTROL/vga_en vga_ctrl_inst/sys_rst_n_syn_5.d[1]
+vga_ctrl_inst/sys_rst_n vga_ctrl_inst/reg0_syn_78.sr
+
+
+Endpoint: vga_ctrl_inst/cnt_v_b[5]_syn_42
+3111 -1.760000 1 1
+Timing path: vga_ctrl_inst/sys_rst_n_syn_5.clk->vga_ctrl_inst/cnt_v_b[5]_syn_42
+vga_ctrl_inst/sys_rst_n_syn_5.clk
+vga_ctrl_inst/cnt_v_b[5]_syn_42
+3113 -1.760000 3.530000 5.290000 1 2
+U_APB_VGA_CONTROL/vga_en vga_ctrl_inst/sys_rst_n_syn_5.d[1]
+vga_ctrl_inst/sys_rst_n vga_ctrl_inst/cnt_v_b[5]_syn_42.sr
+
+
+
+Removal check
+3151 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+3153 0.187000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14
+3155 0.187000 2.324000 2.511000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1_dup_5 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_14.rstb
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_95
+3189 0.252000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1_reg_syn_8.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_95
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1_reg_syn_8.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_95
+3191 0.252000 2.327000 2.579000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_95.sr
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_57
+3225 0.254000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_57
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/sub0_syn_78.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_57
+3227 0.254000 2.327000 2.581000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_r_rst1_dup_5 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg2_syn_57.sr
+
+
+
+
+clock: clk_gen_inst/pll_inst.clkc[4]
+3261 24966 748 4
+Setup check
+3271 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+3271 1.025000 1315 3
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+3273 1.025000 10.344000 9.319000 7 14
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[0] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_50.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_5 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29.addrb[11]
+
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_19.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_19.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+3333 1.143000 10.344000 9.201000 7 13
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[1] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.a[0]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29.addrb[11]
+
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/reg0_syn_59.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/reg0_syn_59.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29
+3391 1.155000 10.344000 9.189000 7 12
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[4] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_29.addrb[11]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+3447 1.121000 1315 3
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+3449 1.121000 10.416000 9.295000 7 14
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[0] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_50.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_5 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.addrb[11]
+
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_19.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_19.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+3509 1.239000 10.416000 9.177000 7 13
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[1] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.a[0]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.addrb[11]
+
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/reg0_syn_59.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/reg0_syn_59.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9
+3567 1.251000 10.416000 9.165000 7 12
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[4] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_9.addrb[11]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+3623 1.186000 1315 3
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+3625 1.186000 10.416000 9.230000 7 13
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[0] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_50.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_5 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[6] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39.addrb[9]
+
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+3683 1.263000 10.416000 9.153000 7 14
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[0] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_50.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_5 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_56 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_66.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_58 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_69.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39.addrb[11]
+
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/sel2_syn_113.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39
+3743 1.269000 10.416000 9.147000 7 12
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk[0] sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_50.a[1]
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_5 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_53.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_9 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_56.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_13 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_59.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_17 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_62.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_21 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/lt0_syn_65.fci
+sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/wr_ack_n1 sdram_top_inst/sdram_ctrl_inst/sdram_write_inst/cnt_clk_b[8]_syn_17.d[0]
+sdram_top_inst/fifo_ctrl_inst/sdram_wr_ack sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_80.c[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_en_s sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_77.b[1]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_52 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_60.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/add2_syn_54 sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_63.fci
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/addrb[4] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/ram_inst/ramread0_syn_39.addrb[7]
+
+
+
+Hold check
+3799 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+3801 0.104000 10 3
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_56.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_56.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+3803 0.104000 2.274000 2.378000 1 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_addr[4] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9.addra[7]
+
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_59.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_59.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+3837 0.112000 2.274000 2.386000 1 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_addr[5] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9.addra[8]
+
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_51.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_51.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9
+3871 0.210000 2.274000 2.484000 1 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_addr[0] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_9.addra[3]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+3905 0.219000 10 3
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_51.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_51.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+3907 0.219000 2.274000 2.493000 1 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_addr[0] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24.addra[3]
+
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_53.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_53.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+3941 0.228000 2.274000 2.502000 1 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_addr[2] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24.addra[5]
+
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_56.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/reg1_syn_56.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24
+3975 0.258000 2.274000 2.532000 1 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_addr[3] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/ramread0_syn_24.addra[6]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg1_syn_55
+4009 0.251000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg3_syn_61.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg1_syn_55
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg3_syn_61.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg1_syn_55
+4011 0.251000 2.198000 2.449000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/sync_r1[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg1_syn_55.mi[0]
+
+
+
+Recovery check
+4045 3
+Endpoint: sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[27]_syn_5
+4047 2.657000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[27]_syn_5
+u_logic/Qijpw6_reg_syn_340.clk
+sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[27]_syn_5
+4049 2.657000 10.186000 7.529000 3 4
+sdcard_rd_reset u_logic/Glphu6_syn_3635.d[0]
+fifo/rst_dup_122 sdram_top_inst/fifo_ctrl_inst/sdram_wr_addr_b[10]_syn_62.d[1]
+sd_reader/rstn_dup_10 sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[29]_syn_5.d[0]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rst sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[27]_syn_5.sr
+
+
+Endpoint: u_logic/Bfjpw6_reg_syn_2757
+4091 2.793000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->u_logic/Bfjpw6_reg_syn_2757
+u_logic/Qijpw6_reg_syn_340.clk
+u_logic/Bfjpw6_reg_syn_2757
+4093 2.793000 10.186000 7.393000 3 4
+sdcard_rd_reset u_logic/Glphu6_syn_3635.d[0]
+fifo/rst_dup_122 sdram_top_inst/fifo_ctrl_inst/sdram_wr_addr_b[10]_syn_62.d[1]
+sd_reader/rstn_dup_10 sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[29]_syn_5.d[0]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rst u_logic/Bfjpw6_reg_syn_2757.sr
+
+
+Endpoint: u_logic/Bfjpw6_reg_syn_2749
+4135 2.793000 1 1
+Timing path: u_logic/Qijpw6_reg_syn_340.clk->u_logic/Bfjpw6_reg_syn_2749
+u_logic/Qijpw6_reg_syn_340.clk
+u_logic/Bfjpw6_reg_syn_2749
+4137 2.793000 10.186000 7.393000 3 4
+sdcard_rd_reset u_logic/Glphu6_syn_3635.d[0]
+fifo/rst_dup_122 sdram_top_inst/fifo_ctrl_inst/sdram_wr_addr_b[10]_syn_62.d[1]
+sd_reader/rstn_dup_10 sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/wr_data[29]_syn_5.d[0]
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rst u_logic/Bfjpw6_reg_syn_2749.sr
+
+
+
+Removal check
+4179 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg1_syn_37
+4181 0.228000 1 1
+Timing path: sdram_top_inst/sdram_ctrl_inst/sdram_a_ref_inst/add2_syn_86.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg1_syn_37
+sdram_top_inst/sdram_ctrl_inst/sdram_a_ref_inst/add2_syn_86.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg1_syn_37
+4183 0.228000 2.327000 2.555000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/asy_w_rst1 sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg1_syn_37.sr
+
+
+Endpoint: u_logic/Bfjpw6_reg_syn_2763
+4217 0.272000 1 1
+Timing path: u_logic/Bfjpw6_reg_syn_2757.clk->u_logic/Bfjpw6_reg_syn_2763
+u_logic/Bfjpw6_reg_syn_2757.clk
+u_logic/Bfjpw6_reg_syn_2763
+4219 0.272000 2.390000 2.662000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/asy_r_rst1 u_logic/Bfjpw6_reg_syn_2763.sr
+
+
+Endpoint: u_logic/Bfjpw6_reg_syn_2761
+4253 0.272000 1 1
+Timing path: u_logic/Bfjpw6_reg_syn_2757.clk->u_logic/Bfjpw6_reg_syn_2761
+u_logic/Bfjpw6_reg_syn_2757.clk
+u_logic/Bfjpw6_reg_syn_2761
+4255 0.272000 2.390000 2.662000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/asy_r_rst1 u_logic/Bfjpw6_reg_syn_2761.sr
+
+
+
+
+Path delay: 8.02ns max
+4289 10 10 1
+Max path
+4299 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg3_syn_59
+4299 6.879000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg0_syn_53.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg3_syn_59
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg0_syn_53.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg3_syn_59
+4301 6.879000 10.314000 3.435000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/primary_addr_gray_reg[2] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg3_syn_59.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_50
+4336 6.937000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_82.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_50
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/reg0_syn_82.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_50
+4338 6.937000 10.314000 3.377000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/primary_addr_gray_reg[1] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_50.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_48
+4373 6.989000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg0_syn_51.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_48
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg0_syn_51.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_48
+4375 6.989000 10.314000 3.325000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/primary_addr_gray_reg[4] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/rd_to_wr_cross_inst/reg1_syn_48.mi[0]
+
+
+
+
+Path delay: 8.02ns max
+4412 10 10 1
+Max path
+4422 3
+Endpoint: sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/sel3_syn_293
+4422 7.013000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg0_syn_65.clk->sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/sel3_syn_293
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg0_syn_65.clk
+sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/sel3_syn_293
+4424 7.013000 11.625000 4.612000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/primary_addr_gray_reg[7] sdram_top_inst/sdram_ctrl_inst/sdram_arbit_inst/sel3_syn_293.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg3_syn_61
+4459 7.013000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg0_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg3_syn_61
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg0_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg3_syn_61
+4461 7.013000 11.625000 4.612000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/primary_addr_gray_reg[8] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg3_syn_61.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg2_syn_53
+4496 7.031000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg0_syn_61.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg2_syn_53
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg0_syn_61.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg2_syn_53
+4498 7.031000 11.625000 4.594000 0 1
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/primary_addr_gray_reg[4] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/wr_to_rd_cross_inst/reg2_syn_53.mi[0]
+
+
+
+
+Path delay: 6.356ns max
+4535 11 11 1
+Max path
+4545 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/lt0_syn_46
+4545 5.202000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg0_syn_73.clk->sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/lt0_syn_46
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg0_syn_73.clk
+sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/lt0_syn_46
+4547 5.202000 8.650000 3.448000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/primary_addr_gray_reg[9] sdram_top_inst/fifo_ctrl_inst/wr_fifo_data/lt0_syn_46.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg2_syn_52
+4580 5.349000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg0_syn_73.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg2_syn_52
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg0_syn_73.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg2_syn_52
+4582 5.349000 8.650000 3.301000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/primary_addr_gray_reg[7] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg2_syn_52.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/sub0_syn_78
+4615 5.472000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg0_syn_67.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/sub0_syn_78
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/reg0_syn_67.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/sub0_syn_78
+4617 5.472000 8.650000 3.178000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/rd_to_wr_cross_inst/primary_addr_gray_reg[4] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/sub0_syn_78.mi[1]
+
+
+
+
+Path delay: 6.356ns max
+4652 10 10 1
+Max path
+4662 3
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg3_syn_41
+4662 5.264000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg0_syn_53.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg3_syn_41
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg0_syn_53.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg3_syn_41
+4664 5.264000 8.650000 3.386000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/primary_addr_gray_reg[9] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg3_syn_41.mi[1]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_83
+4697 5.349000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg0_syn_59.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_83
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg0_syn_59.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_83
+4699 5.349000 8.650000 3.301000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/primary_addr_gray_reg[1] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/ram_inst/reg2_syn_83.mi[0]
+
+
+Endpoint: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68
+4732 5.475000 1 1
+Timing path: sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg0_syn_65.clk->sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/reg0_syn_65.clk
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68
+4734 5.475000 8.650000 3.175000 0 1
+sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/wr_to_rd_cross_inst/primary_addr_gray_reg[7] sdram_top_inst/fifo_ctrl_inst/rd_fifo_data/add2_syn_68.mi[0]
+
+
+
+
+Path delay: 6.356ns max
+4769 10 10 1
+Max path
+4779 3
+Endpoint: fifo/rd_to_wr_cross_inst/reg1_syn_47
+4779 5.322000 1 1
+Timing path: fifo/rd_to_wr_cross_inst/reg0_syn_54.clk->fifo/rd_to_wr_cross_inst/reg1_syn_47
+fifo/rd_to_wr_cross_inst/reg0_syn_54.clk
+fifo/rd_to_wr_cross_inst/reg1_syn_47
+4781 5.322000 9.961000 4.639000 0 1
+fifo/rd_to_wr_cross_inst/primary_addr_gray_reg[2] fifo/rd_to_wr_cross_inst/reg1_syn_47.mi[0]
+
+
+Endpoint: fifo/rd_to_wr_cross_inst/reg3_syn_40
+4816 5.475000 1 1
+Timing path: fifo/rd_to_wr_cross_inst/reg0_syn_60.clk->fifo/rd_to_wr_cross_inst/reg3_syn_40
+fifo/rd_to_wr_cross_inst/reg0_syn_60.clk
+fifo/rd_to_wr_cross_inst/reg3_syn_40
+4818 5.475000 9.961000 4.486000 0 1
+fifo/rd_to_wr_cross_inst/primary_addr_gray_reg[8] fifo/rd_to_wr_cross_inst/reg3_syn_40.mi[0]
+
+
+Endpoint: fifo/rd_to_wr_cross_inst/reg3_syn_37
+4853 5.475000 1 1
+Timing path: fifo/rd_to_wr_cross_inst/reg0_syn_60.clk->fifo/rd_to_wr_cross_inst/reg3_syn_37
+fifo/rd_to_wr_cross_inst/reg0_syn_60.clk
+fifo/rd_to_wr_cross_inst/reg3_syn_37
+4855 5.475000 9.961000 4.486000 0 1
+fifo/rd_to_wr_cross_inst/primary_addr_gray_reg[6] fifo/rd_to_wr_cross_inst/reg3_syn_37.mi[1]
+
+
+
+
+Path delay: 6.356ns max
+4892 10 10 1
+Max path
+4902 3
+Endpoint: fifo/sub0_syn_78
+4902 5.202000 1 1
+Timing path: fifo/wr_to_rd_cross_inst/reg0_syn_62.clk->fifo/sub0_syn_78
+fifo/wr_to_rd_cross_inst/reg0_syn_62.clk
+fifo/sub0_syn_78
+4904 5.202000 8.516000 3.314000 0 1
+fifo/wr_to_rd_cross_inst/primary_addr_gray_reg[4] fifo/sub0_syn_78.mi[0]
+
+
+Endpoint: fifo/sub0_syn_78
+4939 5.341000 1 1
+Timing path: fifo/wr_to_rd_cross_inst/reg0_syn_62.clk->fifo/sub0_syn_78
+fifo/wr_to_rd_cross_inst/reg0_syn_62.clk
+fifo/sub0_syn_78
+4941 5.341000 8.516000 3.175000 0 1
+fifo/wr_to_rd_cross_inst/primary_addr_gray_reg[5] fifo/sub0_syn_78.mi[1]
+
+
+Endpoint: fifo/wr_to_rd_cross_inst/reg3_syn_43
+4976 5.349000 1 1
+Timing path: fifo/wr_to_rd_cross_inst/reg0_syn_56.clk->fifo/wr_to_rd_cross_inst/reg3_syn_43
+fifo/wr_to_rd_cross_inst/reg0_syn_56.clk
+fifo/wr_to_rd_cross_inst/reg3_syn_43
+4978 5.349000 8.516000 3.167000 0 1
+fifo/wr_to_rd_cross_inst/primary_addr_gray_reg[0] fifo/wr_to_rd_cross_inst/reg3_syn_43.mi[1]
+
+
+
+
+
+Timing group statistics: 
+	Clock constraints: 
+	  Clock Name                                  Min Period     Max Freq           Skew      Fanout            TNS
+	  clk (24.0MHz)                                 32.492ns      30.777MHz        0.480ns      2020        0.000ns
+	  clk_gen_inst/pll_inst.clkc[4] (120.2MHz)        7.295ns     137.080MHz        0.326ns       258        0.000ns
+	  clk_gen_inst/pll_inst.clkc[1] (150.2MHz)       10.662ns      93.791MHz        0.480ns       254     -921.138ns
+	  clk_gen_inst/pll_inst.clkc[3] (150.2MHz)        8.424ns     118.708MHz        0.138ns        59      -37.709ns
+	Minimum input arrival time before clock: no constraint path
+	Maximum output required time after clock: no constraint path
+	Maximum combinational path delay: no constraint path
+Warning: No clock constraint on 1 clock net(s): 
+	SWCLK_dup_1
+
+	Exceptions:
+
+		Check Type:	MIN
+		----------------------------------------------------------------------------------------------------
+		       Path Num     Constraint                                                                      
+		             10     set_false_path -hold -from [ get_regs {rd_to_wr_cross_inst/primary_addr_gray_reg[*]} ] -to [ get_regs {rd_to_wr_cross_inst/sync_r1[*]} ]
+		             10     set_false_path -hold -from [ get_regs {wr_to_rd_cross_inst/primary_addr_gray_reg[*]} ] -to [ get_regs {wr_to_rd_cross_inst/sync_r1[*]} ]
+		             11     set_false_path -hold -from [ get_regs {rd_to_wr_cross_inst/primary_addr_gray_reg[*]} ] -to [ get_regs {rd_to_wr_cross_inst/sync_r1[*]} ]
+		             10     set_false_path -hold -from [ get_regs {wr_to_rd_cross_inst/primary_addr_gray_reg[*]} ] -to [ get_regs {wr_to_rd_cross_inst/sync_r1[*]} ]
+		             10     set_false_path -hold -from [ get_regs {rd_to_wr_cross_inst/primary_addr_gray_reg[*]} ] -to [ get_regs {rd_to_wr_cross_inst/sync_r1[*]} ]
+		             10     set_false_path -hold -from [ get_regs {wr_to_rd_cross_inst/primary_addr_gray_reg[*]} ] -to [ get_regs {wr_to_rd_cross_inst/sync_r1[*]} ]
+
